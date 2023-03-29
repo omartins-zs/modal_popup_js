@@ -52,7 +52,7 @@ hr {
 }
 
 .active .modal {
-    animation: modal .4s;
+    animation: modal 0.4s;
 }
 
 @keyframes modal {
@@ -87,11 +87,11 @@ span {
 }
 
 .btnOK {
-    background-color: blue !important;
+    background-color: #007bff !important;
 }
 
 .btnClose {
-    background-color: brown !important;
+    background-color: #dc3545 !important;
 }
 
 @media (max-width: 500px) {
