@@ -1,3 +1,2 @@
-# modal_popup_js
+<h1 align="center">Modal (pop-up) com JS </h1>
 
-Modal (pop-up) com HTML, CSS e JS
